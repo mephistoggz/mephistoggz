@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mephisto • Hatsune Miku</title>
+  <desc id="desc">Gece yeşili bir ses ekranında Mephisto, turkuaz ASCII harfleriyle çizilmiş çift at kuyruklu Hatsune Miku ve bir ses dalgası.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".65" gradientUnits="objectBoundingBox"><stop stop-color="#101d27"/><stop offset="1" stop-color="#112e33"/></linearGradient>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#82e6d8" opacity=".17"/></pattern>
+  </defs>
+  <rect width="860" height="320" rx="15" fill="url(#bg)"/>
+  <rect x="440" y="16" width="401" height="250" fill="url(#grid)"/>
+  <g font-family="Menlo, Consolas, monospace">
+    <circle cx="36" cy="37" r="4" fill="#ff879b"/>
+    <text x="51" y="42" font-size="13" fill="#b1d0ce" letter-spacing="2">@mephistoggz</text>
+    <text x="31" y="147" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-1" fill="#f4f4e7">Mephisto</text>
+    <text x="36" y="184" fill="#80ebd7" font-size="19">macOS / SwiftUI / Müzik</text>
+    <g xml:space="preserve" font-size="13.5" fill="#80ebd7">
+      <text x="544.9" y="32" textLength="186.3" lengthAdjust="spacingAndGlyphs">__       _____       __</text>
+      <text x="528.7" y="46" textLength="218.7" lengthAdjust="spacingAndGlyphs">.' /]   .-'     '-.   [\ '.</text>
+      <text x="520.6" y="60" textLength="234.9" lengthAdjust="spacingAndGlyphs">/  /[] .'  /  |  \  '. []\  \</text>
+      <text x="512.5" y="74" textLength="251.1" lengthAdjust="spacingAndGlyphs">/  /  |/ .-'|  |\  '-. \|  \  \</text>
+      <text x="504.4" y="88" textLength="267.3" lengthAdjust="spacingAndGlyphs">/  /  [| /   | /  \|   \ |]  \  \</text>
+      <text x="496.3" y="102" textLength="283.5" lengthAdjust="spacingAndGlyphs">/  /   [| |   |/    |   | |]   \  \</text>
+      <text x="488.2" y="116" textLength="299.7" lengthAdjust="spacingAndGlyphs">;  ;     | |  [o]    [o] | |     ;  ;</text>
+      <text x="488.2" y="130" textLength="299.7" lengthAdjust="spacingAndGlyphs">|  |     |  \     __    /  |     |  |</text>
+      <text x="488.2" y="144" textLength="307.8" lengthAdjust="spacingAndGlyphs">|  |     |/\ '._  \/  _.' /\|     |  |</text>
+      <text x="488.2" y="158" textLength="299.7" lengthAdjust="spacingAndGlyphs">;  ;        \/  '---'  \/        ;  ;</text>
+      <text x="480.1" y="172" textLength="307.8" lengthAdjust="spacingAndGlyphs">/  /           _/\__/\_           \  \</text>
+      <text x="472.0" y="186" textLength="324.0" lengthAdjust="spacingAndGlyphs">;  ;         .-'  \  /  '-.         ;  ;</text>
+      <text x="472.0" y="200" textLength="324.0" lengthAdjust="spacingAndGlyphs">| /         /   /  &gt;&lt;  \   \         \ |</text>
+      <text x="472.0" y="214" textLength="324.0" lengthAdjust="spacingAndGlyphs">|/         /___/  /  \  \___\         \|</text>
+      <text x="472.0" y="228" textLength="324.0" lengthAdjust="spacingAndGlyphs">'          [___]  \  /  [___]          '</text>
+    </g>
+    <text x="635" y="260" text-anchor="middle" font-size="12" letter-spacing="1.8" fill="#bdd5d1">初音ミク / HATSUNE MIKU</text>
+    <path d="M32 279H828" stroke="#36535a"/>
+    <text x="33" y="302" font-size="11.5" letter-spacing="2" fill="#b3ceca">CV01</text>
+    <path d="M90.0 294.6v4.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M94.5 292.8v8.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M99.0 294.1v5.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M103.5 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M108.0 293.9v6.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M112.5 290.9v12.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M117.0 292.8v8.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M121.5 296.0v2.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M126.0 293.2v7.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M130.5 288.8v16.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M135.0 291.3v11.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M139.5 295.9v2.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M144.0 292.8v8.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M148.5 287.4v19.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M153.0 290.2v13.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M157.5 295.8v2.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M162.0 293.0v8.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M166.5 287.5v19.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M171.0 290.2v13.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M175.5 295.7v2.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M180.0 293.7v6.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M184.5 289.1v15.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M189.0 291.1v11.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M193.5 295.7v2.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M198.0 294.5v4.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M202.5 291.3v11.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M207.0 292.6v8.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M211.5 295.7v2.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M216.0 295.2v3.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M220.5 293.1v7.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M225.0 293.8v6.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M229.5 295.7v2.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M234.0 295.4v3.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M238.5 292.4v9.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M243.0 291.9v10.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M247.5 295.3v3.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M252.0 294.9v4.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M256.5 289.4v15.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M261.0 288.8v16.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M265.5 294.6v4.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M270.0 294.8v4.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M274.5 288.7v16.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M279.0 288.6v16.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M283.5 294.6v4.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M288.0 295.3v3.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M292.5 291.3v11.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M297.0 291.5v11.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M301.5 295.1v3.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M306.0 295.7v2.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M310.5 293.7v6.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M315.0 293.0v8.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M319.5 295.1v3.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M324.0 295.8v2.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M328.5 293.1v7.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M333.0 291.9v10.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M337.5 294.6v4.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M342.0 295.8v2.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M346.5 292.4v9.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M351.0 290.6v12.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M355.5 294.0v6.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M360.0 295.8v2.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M364.5 291.7v10.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M369.0 289.2v15.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M373.5 293.3v7.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M378.0 295.9v2.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M382.5 291.2v11.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M387.0 288.0v18.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M391.5 292.6v8.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M396.0 295.9v2.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M400.5 291.1v11.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M405.0 287.2v19.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M409.5 292.0v10.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M414.0 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M418.5 291.3v11.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M423.0 287.0v20.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M427.5 291.6v10.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M432.0 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M436.5 291.8v10.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M441.0 287.5v19.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M445.5 291.5v10.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M450.0 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M454.5 292.5v9.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M459.0 288.5v17.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M463.5 291.8v10.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M468.0 295.9v2.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M472.5 293.3v7.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M477.0 289.8v14.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M481.5 292.3v9.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M486.0 295.9v2.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M490.5 294.1v5.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M495.0 291.1v11.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M499.5 292.9v8.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M504.0 295.9v2.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M508.5 294.7v4.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M513.0 292.4v9.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M517.5 293.6v6.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M522.0 295.9v2.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M526.5 295.1v3.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M531.0 293.3v7.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M535.5 294.1v5.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M540.0 295.8v2.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M544.5 295.4v3.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M549.0 294.0v5.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M553.5 294.5v5.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M558.0 295.8v2.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M562.5 295.6v2.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M567.0 294.5v5.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M571.5 294.6v4.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M576.0 295.8v2.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M580.5 295.6v2.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M585.0 293.7v6.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M589.5 293.5v7.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M594.0 295.5v3.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M598.5 295.4v3.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M603.0 292.1v9.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M607.5 291.4v11.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M612.0 295.0v4.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M616.5 295.2v3.6" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M621.0 290.1v13.9" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M625.5 289.0v16.0" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M630.0 294.3v5.3" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M634.5 295.2v3.6" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M639.0 289.0v16.0" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M643.5 287.7v18.5" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M648.0 293.9v6.2" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M652.5 295.4v3.2" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M657.0 289.8v14.5" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M661.5 288.6v16.7" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M666.0 294.0v5.9" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M670.5 295.7v2.7" stroke="#ff94a4" stroke-width="1.8"/>
+    <path d="M675.0 291.8v10.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M679.5 290.9v12.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M684.0 294.6v4.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M688.5 295.9v2.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M693.0 293.6v6.7" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M697.5 293.1v7.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M702.0 295.1v3.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M706.5 295.9v2.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M711.0 293.4v7.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M715.5 290.8v12.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M720.0 293.4v7.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M724.5 295.9v2.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M729.0 290.8v12.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M733.5 287.1v19.9" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M738.0 292.3v9.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M742.5 296.0v2.1" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M747.0 292.3v9.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M751.5 290.7v12.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M756.0 294.1v5.8" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M760.5 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M765.0 294.8v4.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M769.5 294.2v5.6" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M774.0 295.2v3.5" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M778.5 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M783.0 295.4v3.2" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M787.5 294.8v4.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M792.0 295.4v3.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M796.5 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M801.0 295.5v3.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M805.5 294.8v4.3" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M810.0 295.3v3.4" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M814.5 296.0v2.0" stroke="#65c9bb" stroke-width="1.8"/>
+    <path d="M819.0 295.5v2.9" stroke="#65c9bb" stroke-width="1.8"/>
+  </g>
+</svg>
