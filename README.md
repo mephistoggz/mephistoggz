@@ -6,9 +6,13 @@
 
 <h2 align="center">About me</h2>
 
-**[Nocturne](https://github.com/mephistoggz/nocturne)** is a native macOS app built with SwiftUI and AppKit. [Browse the Swift source](https://github.com/mephistoggz/nocturne/tree/main/Sources) · [Releases](https://github.com/mephistoggz/nocturne/releases)
+<p><a href="https://github.com/mephistoggz/nocturne"><img src="./assets/iridium/nocturne.svg" alt="Nocturne"></a> &nbsp; <a href="https://github.com/mephistoggz/nocturne/tree/main/Sources"><img src="./assets/iridium/nocturne-tree-swift.svg" alt="Swift source"></a> &nbsp; <a href="https://github.com/mephistoggz/nocturne/releases"><img src="./assets/iridium/nocturne-releases-releases.svg" alt="Releases"></a></p>
 
-**[DockSense](https://github.com/mephistoggz/DockSense)** hides the Dock when a window fills the usable screen and brings it back when there’s room. It’s a small Objective-C menu bar app, currently in development. [Read the source](https://github.com/mephistoggz/DockSense/blob/main/main.m) · [See what’s been tested](https://github.com/mephistoggz/DockSense/blob/main/VALIDATION.md)
+A native macOS app built with SwiftUI and AppKit.
+
+<p><a href="https://github.com/mephistoggz/DockSense"><img src="./assets/iridium/docksense.svg" alt="DockSense"></a> &nbsp; <a href="https://github.com/mephistoggz/DockSense/blob/main/main.m"><img src="./assets/iridium/docksense-blob-source.svg" alt="Source code"></a> &nbsp; <a href="https://github.com/mephistoggz/DockSense/blob/main/VALIDATION.md"><img src="./assets/iridium/docksense-blob-test.svg" alt="Test results"></a></p>
+
+A small Objective-C menu bar app that hides the Dock when a window fills the usable screen and brings it back when there’s room. Currently in development.
 
 <h3 align="center">初音ミク · Hatsune Miku</h3>
 
