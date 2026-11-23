@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="145" viewBox="0 0 900 145">
+<title>Mephisto</title>
+<defs><linearGradient id="metal" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".52" stop-color="#dddddd"/><stop offset=".55" stop-color="#aaaaaa"/><stop offset="1" stop-color="#eeeeee"/></linearGradient></defs>
+<rect width="900" height="145" rx="6" fill="#141414"/>
+<rect x="12" y="12" width="876" height="121" rx="2" fill="none" stroke="#686868"/>
+<text x="450" y="94" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="64" fill="url(#metal)">Mephisto</text>
+</svg>
